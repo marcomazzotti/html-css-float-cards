@@ -8,4 +8,22 @@
 
 body{
   font-family: 'Fredoka', sans-serif;
+  background-color: #fffffe;
+}
+
+.contenitore{
+  height: 100%;
+  width: 80%;
+  max-width: 1100px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 2rem;
+}
+
+h1{
+  color: #e53170;
+}
+
+.sottotitolo{
+  padding-top: 3rem;
 }
